@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paths are made by walking.</title><link>https://kainzjoh.github.io/</link><description>Recent content on Paths are made by walking.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kainzjoh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>FortiGate SSH keys for administrative access</title><link>https://kainzjoh.github.io/posts/fortigate-ssh-keys-for-administrative-access/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://kainzjoh.github.io/posts/fortigate-ssh-keys-for-administrative-access/</guid><description>Introduction to SSH OpenSSH is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks.
-That’s a cite from the official OpenSSH Webpage and also OpenSSH as for today is a very common type of connection to routers, switches, firewalls and so on. What we’re going to cover in this post is how to connect to a (FortiGate)[https://www.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paths are made by walking.</title>
+    <link>https://kainzjoh.github.io/</link>
+    <description>Recent content on Paths are made by walking.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kainzjoh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FortiGate SSH keys for administrative access</title>
+      <link>https://kainzjoh.github.io/posts/fortigate-ssh-keys-for-administrative-access/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kainzjoh.github.io/posts/fortigate-ssh-keys-for-administrative-access/</guid>
+      <description>Introduction to SSH OpenSSH is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks.
+That’s a cite from the official OpenSSH Webpage and also OpenSSH as for today is a very common type of connection to routers, switches, firewalls and so on. What we’re going to cover in this post is how to connect to a (FortiGate)[https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
