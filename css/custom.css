@@ -1,0 +1,11 @@
+h1 {
+ color: '#b6577f'
+}
+.h1 {
+    color: '#b6577f'
+}
+
+#header #logo {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
